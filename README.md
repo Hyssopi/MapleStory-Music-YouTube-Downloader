@@ -1,5 +1,5 @@
 # MapleStory Music YouTube Downloader
-Downloads MapleStory music from YouTube to the user's local PC in .mp3 audio format. Retrieves YouTube links from `maplestory-music/maplebgm-db`.
+Downloads MapleStory music from YouTube to the user's local PC in .mp3 audio format. Retrieves YouTube links and information from [maplestory-music/maplebgm-db](https://github.com/maplestory-music/maplebgm-db).
 
 ![DownloadProgress](images/DownloadProgress.png)
 
