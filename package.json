@@ -1,0 +1,17 @@
+{
+  "name": "maplestory-music-youtube-downloader",
+  "version": "1.0.0",
+  "description": "Downloads MapleStory music from YouTube to the user's local PC in .mp3 audio format. Retrieves YouTube links from `maplestory-music/maplebgm-db`.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.17",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-fetch": "^2.3.0",
+    "ytdl-core": "^0.29.1"
+  }
+}
