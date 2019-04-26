@@ -3,7 +3,7 @@ const fs = require('fs');
 // No ES6, so fetch is not installed by default and need node-fetch
 const fetch = require('node-fetch');
 
-const youtubeDownloaderUtilities = require('./scripts/youtubeDownloaderUtilities');
+const youtubeDownloaderUtilities = require('./util/youtubeDownloaderUtilities');
 
 
 const MAPLESTORY_BGM_DATA_JSON_URL = 'https://raw.githubusercontent.com/maplestory-music/maplebgm-db/master/bgm.json';
