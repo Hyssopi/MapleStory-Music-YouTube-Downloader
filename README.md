@@ -12,7 +12,7 @@ Downloads MapleStory music from YouTube to the user's local PC in .mp3 audio for
 ## Run
 1. Install Node.js
 
-2. Download this repository as a zip file to your local PC. Then extract contents.
+2. Download this repository as a zip file to your local PC. Then extract the contents.
 
     <img src="images/GitHubRepositoryDownload.png" width="400">
 
